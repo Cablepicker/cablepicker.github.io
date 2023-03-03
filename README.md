@@ -7,10 +7,12 @@ This is the support website page for the Cable Picker application. For any queri
 cablepicker.s1@gmail.com
 
 
-Contact Form 7
-==============
+Contact and Support
+===================
 
-This is the development repository for Contact Form 7, a WordPress plugin that lets you manage contact forms on your website. A copy of the plugin package is downloadable from the [WordPress.org Plugin Directory](https://wordpress.org/plugins/contact-form-7/).
+This is the support website page for the Cable Picker application. For any queries, please contact us on the below address:
+
+cablepicker.s1@gmail.com
 
 
 License
