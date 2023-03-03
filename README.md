@@ -11,9 +11,7 @@ cablepicker.s1@gmail.com
 
 
 
-### License
--------
-
+## Download the application
 This plugin is released under the GNU General Public License Version 2 (GPLv2). For details, see [license.txt](license.txt).
 
 
