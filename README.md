@@ -1,5 +1,3 @@
-
-#
 # Cable Picker Application
 
 
@@ -8,7 +6,6 @@ This is the support website page for the **Cable Picker** application. For any q
 
 cablepicker.s1@gmail.com
 
-#
-#
+
 ## Download the application
 [Download the Cable Picker application on App Store](https://apps.apple.com/us/app/cable-picker/id1673756820)
