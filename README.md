@@ -12,7 +12,7 @@ cablepicker.s1@gmail.com
 
 
 ## Download the application
-Download the Cable Picker application on App Store: 
+Download the Cable Picker application on App Store (https://apps.apple.com/us/app/cable-picker/id1673756820) 
 
 This plugin is released under the GNU General Public License Version 2 (GPLv2). For details, see [license.txt](license.txt).
 
