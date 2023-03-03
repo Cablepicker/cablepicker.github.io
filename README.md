@@ -1,13 +1,13 @@
 
 
-Cable Picker Application
+# Cable Picker Application
 Contact and Support
 This is the support website page for the Cable Picker application. For any queries, please contact us on the below address:
 
 cablepicker.s1@gmail.com
 
 
-Contact and Support
+## Contact and Support
 ===================
 
 This is the support website page for the Cable Picker application. For any queries, please contact us on the below address:
@@ -15,7 +15,7 @@ This is the support website page for the Cable Picker application. For any queri
 cablepicker.s1@gmail.com
 
 
-License
+### License
 -------
 
 This plugin is released under the GNU General Public License Version 2 (GPLv2). For details, see [license.txt](license.txt).
